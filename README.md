@@ -1,5 +1,5 @@
 # churn-detector
-![image](office.png)
+![image](office.jpg)
 Application pour détecter si un employé veut quitter l'entrepise
 
 * Modèle de classification binaire construit à partir d'un dataset provenant de Pycaret  
